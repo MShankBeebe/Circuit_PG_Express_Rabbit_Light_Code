@@ -10,3 +10,6 @@ My code lights up one LED to a color at a time.  Once there as a complete circle
 
 
 ![IMG_6850 (1)](https://github.com/MShankBeebe/Ciruit_PG_Express_Rabbit_Light_Code/assets/63660114/2ecc7fe3-822f-4c67-b87c-803d9ac26e7d)
+
+
+![IMG_6849](https://github.com/MShankBeebe/Ciruit_PG_Express_Rabbit_Light_Code/assets/63660114/7cf9f34e-02f9-43cd-bf9e-23fc78d26403)
