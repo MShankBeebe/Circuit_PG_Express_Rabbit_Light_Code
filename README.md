@@ -1,4 +1,4 @@
-# Ciruit_PG_Express_Rabbit_Light_Code
+# Circuit_PG_Express_Rabbit_Light_Code
  A program to make a softly changing rainbow light.  I based my code on Carter Nelson's code Circuit Playground Bike Light - Round N Round
 https://learn.adafruit.com/circuit-playground-bike-light/basic-neopixel-animation
 
